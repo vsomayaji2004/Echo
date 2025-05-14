@@ -45,5 +45,5 @@ This project connects an AI system to a user-facing interface that allows real-t
 
 ---
 
-## Project Structure (Example)
+
 
